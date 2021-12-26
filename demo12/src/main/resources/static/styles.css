@@ -1,0 +1,20 @@
+.dk{
+    color: white;
+
+    margin-top: 20px;
+}
+.nm{
+    color: white;
+    margin-top: 20px;
+}
+.voting {
+    white-space: nowrap;
+    display:inline;
+
+}
+.p1{
+    display:inline;
+}
+.p2{
+    display:inline;
+}
